@@ -3,8 +3,9 @@ flask-video-streaming
 
 Supporting code for my article [video streaming with Flask](http://blog.miguelgrinberg.com/post/video-streaming-with-flask) and its follow-up [Flask Video Streaming Revisited](http://blog.miguelgrinberg.com/post/flask-video-streaming-revisited).
 
-camera.py module has been edited so that webcam data can be streamed. Other modifications have been made elsewhere in order to omit redundent code, as well as some modules being removed all together.
+=====================
+Matt's notes:
 
-Run the app.py script to begin the application, and open https://localhost:5000 to see the webcam stream.
+camera.py module has been edited so that the processed image from the CV GUI is displayed. Other modifications have been made elsewhere in order to omit redundent code, as well as some modules being removed all together.
 
-Go to camera.py in order to modify the video stream that is yielded.
+Run the GUI executable to begin the CV processes. Run the app.py script to begin streaming the processed images to a browser, and open https://localhost:5000 to see the stream.
