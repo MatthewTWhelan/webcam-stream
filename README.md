@@ -1,7 +1,7 @@
 flask-video-streaming
 =====================
 
-Supporting code for my Miguel Grinber's article [video streaming with Flask](http://blog.miguelgrinberg.com/post/video-streaming-with-flask) and its follow-up [Flask Video Streaming Revisited](http://blog.miguelgrinberg.com/post/flask-video-streaming-revisited).
+Supporting code for my Miguel Grinberg's article [video streaming with Flask](http://blog.miguelgrinberg.com/post/video-streaming-with-flask) and its follow-up [Flask Video Streaming Revisited](http://blog.miguelgrinberg.com/post/flask-video-streaming-revisited).
 
 =====================
 Matt's notes:
